@@ -1,0 +1,52 @@
+body
+{
+    background-color: rgb(0, 0, 71);
+    color:aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 40px;
+}
+h1
+{
+    color: aquamarine;
+    text-align: center;
+    letter-spacing: 2px ;
+
+}
+h2
+{
+border-left:5px aquamarine  solid ;
+padding-left: 10px;
+
+
+}
+
+p{
+    line-height: 1.8;
+    font-size: 16px ;
+}
+li
+{
+    color: rgb(135, 221, 255);
+    margin-bottom: 8px;
+
+
+}
+a
+{
+ color: coral;
+ font-weight: bold;
+ text-decoration: none;
+
+}
+a:hover
+{
+    color: lightyellow;
+    text-decoration: underline;
+}
+
+img
+{width:100%;
+max-width: 500px;
+border-radius: 15px;
+display: block;
+margin: auto;}
